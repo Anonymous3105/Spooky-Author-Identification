@@ -1,5 +1,3 @@
-# Introduction to Machine Learning
-
 # Spooky Author Identification
 
 Abhijeet Ambadekar, Harsh Seth, Karthik Sharma, Satyarth Gohil, Yash, Tanisha
